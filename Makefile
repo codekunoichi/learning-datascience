@@ -4,6 +4,7 @@ install:
 
 test:
 	python -m pytest --nbval ObesityExploration.ipynb
+	python -m pytest --nbval learning_pandas.ipynb
 
 format:
 	black *.py
