@@ -8,3 +8,5 @@ click
 flask
 requests
 torch
+seaborn
+matplotlib
