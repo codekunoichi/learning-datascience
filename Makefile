@@ -5,7 +5,7 @@ install:
 test:
 	python -m pytest --nbval ./pandas/ObesityExploration.ipynb
 	python -m pytest --nbval ./pandas/learning_pandas.ipynb
-	python -m pytest --nbval ./pandas/portfolio_projects/prob_1_analyze_sales_data.ipynb
+	python -m pytest --nbval ./pandas/portfolio-projects/prob_1_analyze_sales_data.ipynb
 
 format:
 	black *.py
