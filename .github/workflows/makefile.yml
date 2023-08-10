@@ -1,6 +1,9 @@
 name: Python application test with Github Actions
 
-on: [push]
+#on: [push]
+on:
+  schedule:
+    - cron: "0 9,21 * * *"  # Runs at 9 AM and 9 PM UTC every day
 
 jobs:
   build:
