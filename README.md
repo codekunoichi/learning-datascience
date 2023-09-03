@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/codekunoichi/learning-datascience/actions/workflows/makefile.yml/badge.svg?branch=master)](https://github.com/codekunoichi/learning-datascience/actions/workflows/makefile.yml)
+
 
 # learning-datascience
 All things Data Science, learning journey, portfolio projects and all tips and tricks along the way.
